@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.pvphud.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": ["InGameHudMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
